@@ -1,2 +1,2 @@
 # Speech-Recognition -- To be Updated
-![image](https://user-images.githubusercontent.com/78637579/131614959-a28073e7-0de0-4c2c-bb03-c2e3ca16ed7f.png)
+This is a first draft. In README file, I will be updating how the sampling rates were set, how hop length was calculated for an audio file of length of 2-4 sec. In upcoming versions I will look into how to handle files of larger and varied lengths. How to reduce noise and increase accuracy. Currently, this accuracy is quite low due to limited audio data and will be looking into different hyper parameters that can reduce over fitting. As in this model, I only used regularization to reduce overfitting to certain extent. 
